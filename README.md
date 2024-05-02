@@ -38,7 +38,7 @@ My passion lies not only in technological development but also in contributing t
 ---
 ### Latest Blog Posts
 - [Customize and Stand Out with Your GitHub README](https://www.sergiocode.dev/blog/personaliza-y-destaca-con-tu-readme-de-github)
-- [Exploring Deferrable Views in Angular 17 - Discover the Future](https://www.sergiocode.dev/blog/descubre-deferrable-views-angular-17)
+- [Part 1: Exploring Deferrable Views in Angular 17 - Discover the Future](https://www.sergiocode.dev/blog/descubre-deferrable-views-angular-17)
 - [Control Flow in Angular 17: Everything You Need to Know](https://www.sergiocode.dev/blog/control-flow)
 <br><br/>
 
