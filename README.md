@@ -6,7 +6,7 @@
 My passion lies not only in technological development but also in contributing to the community through the exchange of knowledge and experiences. 🌍💬
 <br><br/>
 
-### Connect with me
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocode91/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sergiocode_/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.instagram.com/sergiocode_/)
