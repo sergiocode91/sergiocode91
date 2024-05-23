@@ -40,7 +40,6 @@ My passion lies not only in technological development but also in contributing t
 - [Signals in Angular: The future of change detection](https://www.sergiocode.dev/blog/signals-angular-deteccion-de-cambios)
 - [Customize and Stand Out with Your GitHub README](https://www.sergiocode.dev/blog/personaliza-y-destaca-con-tu-readme-de-github)
 - [Part 1: Exploring Deferrable Views in Angular 17 - Discover the Future](https://www.sergiocode.dev/blog/descubre-deferrable-views-angular-17)
-- [Control Flow in Angular 17: Everything You Need to Know](https://www.sergiocode.dev/blog/control-flow)
 <br><br/>
 
 <a href="https://www.sergiocode.dev/blog/" target="_blank">
