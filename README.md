@@ -35,6 +35,7 @@ My passion lies not only in technological development but also in contributing t
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <br><br/>
+
 ---
 ### Latest Blog Posts
 - [¡Angular v18 is now available!](https://www.sergiocode.dev/blog/angular-18-novedades)
