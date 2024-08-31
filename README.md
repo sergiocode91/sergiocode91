@@ -3,7 +3,7 @@
 ### Glad to see you here!
 👨‍💻 I am a Senior Software Developer, specialized in Angular and JavaScript technologies. I stand out for innovating in the creation of user experiences 🎨 and maintain a strong commitment to learning new technological solutions 🚀
 
-My passion lies not only in technological development but also in contributing to the community through the exchange of knowledge and experiences. 🌍💬
+My passion lies not only in technological development but also in contributing to the community through the exchange of knowledge and experiences. 🌍
 <br><br/>
 
 ### Connect with me:
